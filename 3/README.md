@@ -16,3 +16,9 @@ Call the function and iterate over the files in a directory of your choice.
 
 * How does a generator work?
 * When would we use generators?
+
+# Challenge 2
+
+```
+Implement a parallel async version of Array.map() that supports promises and a concurrency limit.
+```
